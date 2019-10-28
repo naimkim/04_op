@@ -11,15 +11,15 @@ int main(int argc, char *argv[]) {
 	scanf("%d %d",&x, &y);
 	
 	
-	printf("+ result is %d\n",x+y);
+	printf("plus result is %d\n",x+y);
 	
-	printf("- result is %d\n",x-y);
+	printf("minus result is %d\n",x-y);
 	
-	printf("* result is %d\n",x*y);
+	printf("multiply result is %d\n",x*y);
 	
-	printf("/ result is %d\n",x/y);
+	printf("division result is %d\n",x/y);
 	
-	printf("%% result is %d\n",x%y);
+	printf("remainder result is %d\n",x%y);
 	
 	return 0;
 }
